@@ -1,6 +1,11 @@
 # react-pdf-in-react-native
 @react-pdf/renderer doesn't work in react-native, as the following error occures:
 
+# Usage
+- `yarn install`
+- `yarn ios`
+
+# Expected Output
 ```
 Failed building JavaScript bundle.
 Unable to resolve module stream from /Users/frederik/tmp/my-app/node_modules/blob-stream/index.js: stream could not be found within the project.
